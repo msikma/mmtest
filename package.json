@@ -1,0 +1,22 @@
+{
+  "name": "mmtestcase",
+  "version": "1.0.0",
+  "description": "Test case for music-metadata",
+  "private": true,
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "lib/",
+    "index.js",
+    "package.json"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "music-metadata": "^8.1.4"
+  }
+}
